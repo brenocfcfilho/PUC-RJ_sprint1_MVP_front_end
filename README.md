@@ -1,1 +1,1 @@
-# PUCRJ_MVP_sprint1_front_end
+# PUC-RJ_sprint1_MVP_front_end
